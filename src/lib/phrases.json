@@ -1,0 +1,147 @@
+
+{
+  "Distração": {
+    "objetivo": "Trazer a consciência de volta para a intenção original. Interromper o piloto automático.",
+    "tom": "Direto, calmo, como um lembrete sereno.",
+    "permitido": "Clareza, presença, renúncia ao desvio.",
+    "proibido": "Comandos agressivos, julgamento, produtividade tóxica.",
+    "frases": [
+      "Volta. O agora é tudo o que você tem.",
+      "O que você evita não desaparece. Enfrente.",
+      "Menos estímulo. Mais clareza.",
+      "Volta pro seu corpo. Respira.",
+      "O foco não grita. Ele observa.",
+      "Onde o foco vai, a vida acontece.",
+      "Ficar presente exige coragem. Tenha.",
+      "Só uma coisa. Agora.",
+      "Multitarefa é apenas confusão acelerada.",
+      "Atenção fragmentada produz vida fragmentada.",
+      "Cada clique é um voto contra o seu futuro.",
+      "Se você não produz, você é o produto.",
+      "O excesso de informação causa pobreza de atenção.",
+      "Sem foco, você é apenas um passageiro.",
+      "Onde está o seu foco, está o seu valor.",
+      "Não confunda movimento com progresso.",
+      "Você é o que você foca.",
+      "A distração é o imposto dos que não têm propósito."
+    ]
+  },
+  "Procrastinação": {
+    "objetivo": "Reduzir a resistência inicial, focando no menor passo possível. Desmistificar o tamanho da tarefa.",
+    "tom": "Firme, encorajador, mas sem grandiosidade. Realista.",
+    "permitido": "Ação mínima, enfrentamento do desconforto, aceitação.",
+    "proibido": "Promessas de sucesso, 'just do it', invalidação do sentimento de paralisia.",
+    "frases": [
+      "Fica mais 10 segundos. Aguenta o tédio.",
+      "Silêncio também é ação. Fica nele.",
+      "Amadores esperam motivação. Profissionais trabalham.",
+      "A resistência é mais forte perto da vitória.",
+      "O 'só um minutinho' matou o seu progresso.",
+      "Excelência é uma série de nãos.",
+      "Faça o difícil primeiro. O resto é distração.",
+      "O progresso é silencioso. A distração é barulhenta.",
+      "Escolha o desconforto do foco.",
+      "A paz está na tarefa concluída.",
+      "O foco dói, mas a mediocridade dói mais.",
+      "Você está fugindo do quê?",
+      "O tédio é o portal. Atravesse-o.",
+      "Escolha sua dor: a do foco ou a do arrependimento.",
+      "A execução é o único caminho.",
+      "O sucesso é o resíduo do foco.",
+      "Você já sabe o que fazer. Faça."
+    ]
+  },
+  "Ansiedade": {
+    "objetivo": "Ancorar a mente no presente. Separar o 'eu' do fluxo de pensamentos catastróficos.",
+    "tom": "Gentil, calmante, como uma respiração.",
+    "permitido": "Aterramento (grounding), observação, aceitação, respiração.",
+    "proibido": "'Vai ficar tudo bem', negação do sentimento, otimismo forçado.",
+    "frases": [
+      "Você não precisa fugir. O impulso passa.",
+      "Apressar-se é uma forma de preguiça.",
+      "Inteligência emocional é dizer não ao impulso.",
+      "A disciplina é o antídoto para a ansiedade.",
+      "O agora é a única saída.",
+      "A resistência é uma mentirosa.",
+      "O trabalho profundo cura a alma.",
+      "A clareza vem da eliminação.",
+      "O foco é o silêncio da alma.",
+      "Sinta o peso do tempo. Volta.",
+      "O agora não aceita desculpas.",
+      "Volte para o essencial.",
+      "Deixe o mundo esperar."
+    ]
+  },
+  "Cansaço mental": {
+    "objetivo": "Dar permissão para a pausa. Reduzir a culpa associada ao descanso.",
+    "tom": "Permissivo, gentil, regenerador.",
+    "permitido": "Descanso, pausa, limite, recuperação.",
+    "proibido": "'Continue', 'falta pouco', glorificação do esforço.",
+    "frases": [
+      "Isso não é descanso. É fuga.",
+      "O tempo está correndo. Você está assistindo?",
+      "Seu cérebro precisa de profundidade para criar.",
+      "O tédio é o útero da genialidade. Não saia dele.",
+      "Proteja seu córtex pré-frontal. Desconecte.",
+      "A vida acontece fora do feed.",
+      "Desconecte para não desaparecer.",
+      "Menos telas. Mais vida.",
+      "A vida é curta demais para ser rasa.",
+      "Saia do transe. Agora.",
+      "Desligue o barulho. Ligue a mente.",
+      "Sua mente merece respeito. Limpe-a."
+    ]
+  },
+  "Falta de sentido / desânimo": {
+    "objetivo": "Reconectar com o corpo e com o momento imediato. Trazer o foco para o micro, não para o macro.",
+    "tom": "Sóbrio, realista, compassivo.",
+    "permitido": "Presença, ação pequena, observação da realidade.",
+    "proibido": "'Você vai encontrar seu propósito', 'pense positivo', frases motivacionais vazias.",
+    "frases": [
+      "Trabalho raso não deixa legado. Aprofunde.",
+      "A clareza é o prêmio de quem suporta o esforço.",
+      "Profundidade é a moeda do novo século.",
+      "Não seja um espectador da sua própria vida.",
+      "Seus sonhos morrem em abas abertas.",
+      "Nada de importante está no scroll.",
+      "O que você ignora define quem você é.",
+      "Isso que você faz agora importa?",
+      "A verdade mora na profundidade.",
+      "Não se perca no labirinto de vidro.",
+      "Não se distraia da sua própria grandeza.",
+      "Volta."
+    ]
+  },
+  "Excesso de estímulo (dopamina alta)": {
+    "objetivo": "Reduzir a intensidade. Criar um vale de tédio necessário para o cérebro se reequilibrar.",
+    "tom": "Lúcido, cortante, quase clínico.",
+    "permitido": "Renúncia, limite, desintoxicação, clareza.",
+    "proibido": "Frases que prometem mais prazer, 'encontre o equilíbrio', negociação.",
+    "frases": [
+      "Dopamina barata cobra caro depois.",
+      "Não abre outro app. O vazio continuará lá.",
+      "Sua atenção é o seu ativo mais caro.",
+      "A resistência quer que você mude de aba.",
+      "Mais uma notificação, menos uma ideia.",
+      "O mundo quer sua atenção. Eu quero sua liberdade.",
+      "O algoritmo sabe suas fraquezas. Lute contra ele.",
+      "Resíduo de atenção: mude de tarefa e perca o dia.",
+      "Você está treinando sua mente para ser dispersa. Pare.",
+      "O fluxo só vem para quem fecha a porta.",
+      "Seu potencial morre no scroll infinito.",
+      "Notificações são ordens de estranhos. Ignore.",
+      "Foque no sinal. Esqueça o ruído.",
+      "A maestria exige longos períodos de isolamento.",
+      "O custo de mudar de foco é alto demais.",
+      "O ruído digital é a nova escravidão.",
+      "O tédio não mata. A distração sim.",
+      "O foco é um músculo. Treine-o agora.",
+      "Não seja vítima da conveniência.",
+      "Sua mente não é um depósito de lixo digital.",
+      "O algoritmo não se importa com você. Eu sim. Volta.",
+      "Recupere o controle. Feche a aba.",
+      "Sua vontade é maior que o código deles.",
+      "O foco é a maior forma de rebeldia."
+    ]
+  }
+}
